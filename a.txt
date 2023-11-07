@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git test!! modify!!
 and i deleted b.txt
+=======
+git test!!
+>>>>>>> parent of 7b75d50 (파일 수정2)
