@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 git test!! modify!!
+<<<<<<< HEAD
 and i deleted b.txt
 =======
 git test!!
@@ -8,3 +9,5 @@ git test!!
 =======
 git test!!
 >>>>>>> parent of 7b75d50 (파일 수정2)
+=======
+>>>>>>> parent of 5b73140 (b.txt 삭제 및 a.txt 수정22)
