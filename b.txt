@@ -1,2 +1,2 @@
 im b file!
-i'll make a conflict!
+i don't want to make a conflict!
