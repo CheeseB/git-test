@@ -9,3 +9,5 @@ i'm a.txt of rebase test!
 git stash test!!
 
 git stash pop test!!
+
+git cherry-pick test!!
