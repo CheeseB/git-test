@@ -1,0 +1,11 @@
+im a file!
+im modified!!
+
+i'm amended!
+
+i'm rebased!!!!
+i'm a.txt of rebase test!
+
+git stash test!!
+
+git stash to other branch test!
