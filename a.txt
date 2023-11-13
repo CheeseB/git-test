@@ -15,6 +15,5 @@ git cherry-pick test!!
 git cherry-pick test one more!
 this line picked too! :)
 
-this commit will squash!
 
 i got a review!
