@@ -4,3 +4,5 @@ i'm amended too!
 
 i'm rebased too!!
 i'm b.txt of rebase-test-2!!
+
+this commit will squash too!
