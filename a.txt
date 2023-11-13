@@ -17,4 +17,4 @@ this line picked too! :)
 
 this commit will squash!
 
-i'll get a code review by me!
+i got a review!
