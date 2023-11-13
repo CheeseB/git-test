@@ -2,5 +2,5 @@ bbbbb
 
 i'm amended too!
 
-im'm rebased too!!
-
+i'm rebased too!!
+i'm b.txt of rebase-test-2!!
